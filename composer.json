@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/site",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "topalek",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "workerman/workerman": "v3.5.31"
+  }
+}
